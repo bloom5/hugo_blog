@@ -1,0 +1,12 @@
+baseurl = "http://bloom5.github.io/"
+title = "My Hugo Blog"
+languageCode = "en-us"
+theme = "nofancy"
+copyright = "Copyright (c) 2015 - 2016, Bloom5; all rights reserved."
+
+[params]
+	highlight="Assign a syntax highlight style"
+	
+[author]	
+    name = "Bloom5"
+    github = "bloom5"
